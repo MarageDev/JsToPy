@@ -1,4 +1,4 @@
-# Imports
+# Import sys
 import sys
 
 # Optional import, it is just present for the demonstration
