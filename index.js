@@ -24,5 +24,5 @@ function sendEvent (name, args){
 }
 
 // Add events
-sendEvent('aaa', ['Magic Note','Ehehehe this is event','aaa'])
-sendEvent('kal', ['Meeska Moska Mickey Mouse','a','b','c'])
+sendEvent('CreateNewCustomFile', ['Magic Note','This is the event named : ','CreateNewCustomFile'])
+sendEvent('LoremIpsumTest', ['Meeska Moska Mickey Mouse','50'])
